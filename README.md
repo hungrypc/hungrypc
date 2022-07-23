@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hungrypc/hungrypc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img alt="save some for dessert" src="https://github.com/hungrypc/hungrypc/blob/master/this_is_how_the_nobles_do_it.gif?raw=true" width="100%">
+![save some for dessert](https://github.com/hungrypc/hungrypc/blob/master/this_is_how_the_nobles_do_it.gif?raw=true)
